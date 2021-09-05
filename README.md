@@ -38,5 +38,11 @@ Food/Drink | Location | Price |
 | sweet potatoes and peanut butter | Walmart | $10
 | Lobster Tail | Sea Food Resturant | $54 
 
+---
+## Pithy Quotes
+
+>"The only way to get started is to quit talking and begin doing". - ***Walt Disney***
+
+>"Tell me and i forget. Teach me and i remember. Involve me and i learn."- ***Benjamin Franklin***
 
       
