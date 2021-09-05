@@ -25,5 +25,18 @@ The reason why i chose The United Arab Emirates as my favourite location is beca
 
 My [About Me Page](AboutMe.md)
 
+---
+
+## Recommended Food and Drinks 
+
+ This table includes a couple of food and drinks i would reccomend.
+ 
+Food/Drink | Location | Price |
+| ---| ---| ---: |
+| Vita Malt Drink | Any African Store | $10
+| Creme brulee | Eddie V resturant Downtown Kc | $12
+| sweet potatoes and peanut butter | Walmart | $10
+| Lobster Tail | Sea Food Resturant | $54 
+
 
       
